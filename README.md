@@ -19,6 +19,7 @@ Whenever we launch the application, we’ll read the information from the csv fi
 When we add a member to the LinkedList or remove a member from it, we’ll update the csv file.
 
 This application consists of six classes and one interface as shown below:
+
 	Classes:
 		Member
 		SingleClubMember extends Member
